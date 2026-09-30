@@ -1,7 +1,3 @@
-nome = (input("Digite seu nome: "))
-idade = int(input("Digite sua idade: "))
+nome = input("Digite seu nome: ")
 
-print("Olá", nome)
-print("Você tem", idade, "anos de idade")
-
-print("Profesorra isso foi só um teste para ver se conseguia KKK")
+print("Olá", nome, "Seja Bem-Vindo")
